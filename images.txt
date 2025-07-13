@@ -1,5 +1,7 @@
 alpine
 dockurr/windows
 rustdesk/rustdesk-server
-fatedier/frpc
-fatedier/frps
+snowdreamtech/frpc
+snowdreamtech/frps
+homeassistant/home-assistant
+
