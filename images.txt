@@ -1,8 +1,9 @@
 hello-world
 alpine
-#dockurr/windows
-#rustdesk/rustdesk-server
+dockurr/windows
+rustdesk/rustdesk-server
 #snowdreamtech/frpc
 #snowdreamtech/frps
 #homeassistant/home-assistant
-
+ccbkkb/MicroWARP
+gdy666/lucky:v2
