@@ -5,5 +5,5 @@ rustdesk/rustdesk-server
 #snowdreamtech/frpc
 #snowdreamtech/frps
 #homeassistant/home-assistant
-ccbkkb/microwarp
+ghcr.io/ccbkkb/microwarp
 gdy666/lucky:v2
